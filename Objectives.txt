@@ -1,0 +1,7 @@
+build react app
+Reack hooks (useState)
+React Icons
+responsive webpage
+contact options
+swiper js
+deploy the website
